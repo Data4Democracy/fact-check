@@ -1,7 +1,7 @@
 # fact-check
 A home for all things fact-checking-related in D4D. 
 
-**Slack:** [#factcheckbot](https://datafordemocracy.slack.com/messages/factcheckbot/)
+**Slack:** [#factcheck](https://datafordemocracy.slack.com/messages/factcheck/)
 
 **Project Description:**
 So much information is quickly and easily disseminated on social media, with little way for users to fact-check within social media itself. As such, incorrect “facts” can spread across user networks largely unchecked. We aim to create a service/technology that quickly and easily increases the number of research and fact-based social media posts. By implementing a platform-based solution, we will be able to insert our technology across multiple endpoints, including at the content creation phase.
